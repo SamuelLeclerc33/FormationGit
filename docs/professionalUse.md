@@ -1,11 +1,8 @@
-# En entreprise
-Utilisé dans presque toutes les entreprises qui doivent partagés/entreposer du code.
+# Utilisation dans le monde professionnel
+Utilisé par toutes les entreprises qui doivent partagés/entreposer du code. Git est devenu un standard pour le travail collaboratif impliquant du code. Ici, je vais présenté une méthode de travail qui est répendu dans l'industrie pour compartimenter et facilité le travail d'équipe et diminuer les conflits.
 
-Méthode de travail
+## Git flow
 
-Avoir une structure facilite le travail d'équipe et diminue la quantité de conflits entres les branches.
-
-Plusieurs possibilités
 
 Git flow
 
