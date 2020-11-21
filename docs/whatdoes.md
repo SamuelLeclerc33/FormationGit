@@ -1,4 +1,7 @@
-# Commandes simple
+# Fonctionalité de base
+Ici, nous allons parler des commandes principal de git. Il en existe bien d'autre, mais ce guide non exaustif est ce qui est nécessaire de savoir selon moi.
+
+## Commandes simple
 
 1. Config
 
@@ -9,8 +12,6 @@
 4. Clone
 
 5. Pull
-
-6. Diff
 
 7. Add
 
