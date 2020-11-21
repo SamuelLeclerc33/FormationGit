@@ -38,14 +38,14 @@ Parcontre, il faut garder quelques aspects à l'esprit. Git n'est pas fait pour 
 
 TLDR : 
 - Avantage : 
- - Controle par ligne
- - Travail collaboratif / séparation du travail
- - Ideal pour le code et les fichiers contenant du texte (lisible dans bloc note)
- - Garder toutes les états d'un travail
- - Retour en arrière
+    - Controle par ligne
+    - Travail collaboratif / séparation du travail
+    - Ideal pour le code et les fichiers contenant du texte (lisible dans bloc note)
+    - Garder toutes les états d'un travail
+    - Retour en arrière
 - Inconvénients : 
- - Fichiers binaires n'ont pas n'ont pas tous les avantages de git
- - Espace en ligne limité ou payant
+    - Fichiers binaires n'ont pas n'ont pas tous les avantages de git
+    - Espace en ligne limité ou payant
 
 ***
 ## Les fournisseurs
