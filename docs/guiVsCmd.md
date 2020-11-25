@@ -9,7 +9,7 @@ Je considère que Git Gui est le plus populaire des Gui, car il vient avec l'ins
 
 Ce client inclus la grande majorité des fonctionnalités de git. Étant la première interface utilisateur de git, on peut lui attribuer un certain charme. Son apparence transparaît son âge et malgré le fait qu'on retrouve la majorité des fonctionnalités utiles, elles sont presque toutes cachées dans des menus. L'un des avantages de cette interface est qu'on sait exactement les commandes git qui vont être appelé lorsque l'on fait une action.
 
-## [SourceTree (Windows/Mac/Linux)](https://www.sourcetreeapp.com/)
+## [SourceTree (Windows/Mac)](https://www.sourcetreeapp.com/)
 
 SourceTree est à ma connaissance l'un des clients git les plus utilisés. Il regroupe la majorité des fonctionnalités dans un client avec un visuel moderne. Comme tout outil, il y a une courbe d'apprentissage, mais sa prise en main se fait facilement et les fonctionnalités les plus utiles sont disponibles contextuellement. SourceTree est gratuit à 100% et permet d'accéder à toutes les plateformes git, qu'elle soit publique ou privée.
 
